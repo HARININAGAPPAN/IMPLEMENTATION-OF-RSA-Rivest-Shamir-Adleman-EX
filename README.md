@@ -37,7 +37,7 @@ int gcd(int a, int h) {
 }
 
 int main() {
-    printf("JAYABHARATHI - 212222100013\n");
+    printf("SUBMITTED BY: SATHISH R - 212222100048\n");
     // Two prime numbers
     int p = 3;
     int q = 7;
@@ -79,7 +79,7 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/8cc93e5a-dbb6-4a91-80e5-f05a2d69c5af)
+![image](rsa.png)
 
 
 ## RESULT:
