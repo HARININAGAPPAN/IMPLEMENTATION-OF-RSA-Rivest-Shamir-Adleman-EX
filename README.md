@@ -20,7 +20,7 @@
   STEP-7: Decryption is done as cipherdmod n.
   
 ## PROGRAM: 
-```C
+```
 #include <stdio.h>
 #include <math.h>
 
@@ -37,7 +37,7 @@ int gcd(int a, int h) {
 }
 
 int main() {
-    printf("SUBMITTED BY: SATHISH R - 212222100048\n");
+    printf("SUBMITTED BY: HARINI - 212223040057\n");
     // Two prime numbers
     int p = 3;
     int q = 7;
@@ -77,9 +77,9 @@ int main() {
     return 0;
 }
 ```
-
 ## OUTPUT:
-![image](rsa.png)
+![Screenshot 2024-10-16 125811](https://github.com/user-attachments/assets/b2ed7267-a1d0-4711-8b4b-498f2f7ec3ff)
+
 
 
 ## RESULT:
